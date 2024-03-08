@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ry8Sg2i</h1>
-<h3 align="center">A passionate frontend developer from japan</h3>
+<h3 align="center">I'm rookie engineer in Japan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ry8sg2i" alt="ry8sg2i" /></a> </p>
 
