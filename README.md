@@ -1,4 +1,3 @@
-# Ry8Sg2i
 <h1 align="center">Hi 👋, I'm Ry8Sg2i</h1>
 <h3 align="center">A passionate frontend developer from japan</h3>
 
